@@ -1,0 +1,34 @@
+{
+  "name": "reftest-list-parser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/reftest-list-parser.git"
+  },
+  "author": "azu",
+  "email": "azuciao@gmail.com",
+  "homepage": "https://github.com/azu/reftest-list-parser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/reftest-list-parser/issues"
+  },
+  "version": "1.0.0",
+  "description": "reftest.list parser",
+  "main": "lib/reftest-list-parser.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "testing",
+    "reftest",
+    "browser"
+  ],
+  "devDependencies": {
+    "espower-loader": "^0.10.0",
+    "intelli-espower-loader": "^0.6.0",
+    "mocha": "^2.2.4",
+    "power-assert": "^0.10.2"
+  }
+}

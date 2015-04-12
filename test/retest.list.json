@@ -1,0 +1,12 @@
+[
+  {
+    "targetA": "a.html",
+    "targetB": "./b.html",
+    "compareOperator": "=="
+  },
+  {
+    "targetA": "../c.html",
+    "targetB": "d.html",
+    "compareOperator": "!="
+  }
+]
