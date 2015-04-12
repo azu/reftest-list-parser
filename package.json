@@ -11,10 +11,12 @@
   "bugs": {
     "url": "https://github.com/azu/reftest-list-parser/issues"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "reftest.list parser",
   "main": "lib/reftest-list-parser.js",
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "directories": {
     "test": "test"
   },
